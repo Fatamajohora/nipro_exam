@@ -1,0 +1,94 @@
+/*common start*/
+body{
+	font-family: "Lato", sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #fff;
+}
+/*common start*/
+/*header start*/
+header{
+	background-color: #fff;
+}
+.c_nav{}
+.logo{}
+.menu{}
+.menu ul li:last-child a{}
+.menu ul li a:hover{}
+.m_button{
+    background-color: #fff;
+    color: #fff;
+    border: none;
+}
+.s_icon{
+	background-color: #fff;
+}
+
+/*header end*/
+
+.hero {
+    padding: 400px 0 0;
+    background-image: url(../images/slider.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*.f_row_content p {
+    margin: 0 0 15px;
+    text-align: center;
+    line-height: 35px;
+    word-spacing: 5px;
+}*/
+.c_shape {
+    width: 2px;
+    height: 50px;
+    background-color: black;
+    margin: 0 auto;
+}
+.wl_shape{}
+
+.b_text h1 {
+    font-family: "Lato", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: #333333;
+    text-transform: uppercase;
+}
+.b_text p{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #333333;
+
+}
+.wlcm_title {
+    margin: 25px 0 45px;
+}
+.para_c  {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 19px;
+}
+.f_icon {
+    font-size: 60px;
+    color: #8e8e8e;
+    text-align: center;
+}
+
+.f_feature a {
+    margin-top: 20px;
+    font-family: roboto-medium;
+    font-size: 16px;
+    font-weight: 500;
+    color: #8e8e8e !important;
+    text-align: center !important;
+    display: block;
+    text-transform: uppercase;
+}
+.paragraph {
+    font-family: roboto-regular;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    color: #8e8e8e;
+}
